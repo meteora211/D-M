@@ -11,3 +11,5 @@ def importdata(filepath):
     returnMat = arraydata[:,:3]
     labelVector = arraydata[:,3] 
     return returnMat, labelVector
+
+#
